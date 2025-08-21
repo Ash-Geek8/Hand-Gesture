@@ -1,4 +1,4 @@
-#Media Controlling using Hand Gesture
+Media Controlling using Hand Gesture
 
 Technologies Used
 
