@@ -1,5 +1,3 @@
-Project Name
-
 #Media Controlling using Hand Gesture
 
 Technologies Used
